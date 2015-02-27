@@ -9,7 +9,7 @@ from __future__ import print_function,division
 import PyFFT
 import QRNG
 import time
-import numpy as np
+#import numpy as np
 #from math import *
 #import matplotlib.pyplot as plt
 
