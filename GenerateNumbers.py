@@ -17,7 +17,7 @@ import numpy as np
 #Import data
 start_time1 = time.clock()
 
-my_dir = "Data/"
+my_dir = "C:\Users\s113094\Dropbox\Eksperimentelt Projekt i FN\QRNG\Data/"
 my_file = "1550-2.0ND"
 file_name=my_dir+my_file
 x,t,dt = PyFFT.importData(file_name)   
